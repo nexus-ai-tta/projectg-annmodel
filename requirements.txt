@@ -5,4 +5,4 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-tensorflow
+tensorflow==2.15.0
